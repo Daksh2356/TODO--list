@@ -1,3 +1,5 @@
 # TODO--list
-Raw sketch of a basic TODO list. The search bar still needs some work to be done.
-PS: I am still learning HTML, CSS and frameworks😅😅🙂🙂.. it's just a try to make a simple project 
+
+A basic to-do list, where you can add tasks and later remove them according to your requirements.
+
+⚠️: The search bar still needs some work to be done.
